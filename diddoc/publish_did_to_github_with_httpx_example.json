@@ -1,1 +1,1 @@
-{"@context": ["https://www.w3.org/ns/did/v1", "https://w3id.org/security/suites/jws-2020/v1"], "controller": "did:example:345520706236", "verificationMethod": [{"id": "did:example:123#key-0", "controller": "did:example:123", "type": "JsonWebKey2020"}]}
+{"@context": ["https://www.w3.org/ns/did/v1", "https://w3id.org/security/suites/jws-2020/v1"], "controller": "did:example:314733551852", "verificationMethod": [{"id": "did:example:123#key-0", "controller": "did:example:123", "type": "JsonWebKey2020"}]}
