@@ -1,0 +1,1 @@
+{"@context": ["https://www.w3.org/ns/did/v1", "https://w3id.org/security/suites/jws-2020/v1"], "verificationMethod": [{"id": "did:example:123#key-0", "type": "JsonWebKey2020", "controller": "did:example:123"}], "controller": "did:example:991147057790"}
