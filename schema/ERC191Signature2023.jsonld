@@ -1,59 +1,62 @@
 {
   "@context": {
-    "@protected": true
-  },
-  "ERC191Signature2023": {
-    "@id": "https://simbachain.github.io/context/schema/ERC191Signature2023.jsonld",
-    "@context": {
-      "@protected": true,
-      "id": "@id",
-      "type": "@type",
-      "created": {
-        "@id": "http://purl.org/dc/terms/created",
-        "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
-      },
-      "domain": "https://w3id.org/security#domain",
-      "proofPurpose": {
-        "@id": "https://w3id.org/security#proofPurpose",
-        "@type": "@vocab",
-        "@context": {
-          "@protected": true,
-          "id": "@id",
-          "type": "@type",
-          "assertionMethod": {
-            "@id": "https://w3id.org/security#assertionMethod",
-            "@type": "@id",
-            "@container": "@set"
-          },
-          "authentication": {
-            "@id": "https://w3id.org/security#authenticationMethod",
-            "@type": "@id",
-            "@container": "@set"
-          },
-          "capabilityInvocation": {
-            "@id": "https://w3id.org/security#capabilityInvocationMethod",
-            "@type": "@id",
-            "@container": "@set"
-          },
-          "capabilityDelegation": {
-            "@id": "https://w3id.org/security#capabilityDelegationMethod",
-            "@type": "@id",
-            "@container": "@set"
-          },
-          "keyAgreement": {
-            "@id": "https://w3id.org/security#keyAgreementMethod",
-            "@type": "@id",
-            "@container": "@set"
+    "@protected": true,
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "ERC191Signature2023": {
+      "@id": "https://simbachain.github.io/context/schema/ERC191Signature2023.jsonld",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "created": {
+          "@id": "http://purl.org/dc/terms/created",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "domain": "https://w3id.org/security#domain",
+        "proofPurpose": {
+          "@id": "https://w3id.org/security#proofPurpose",
+          "@type": "@vocab",
+          "@context": {
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "assertionMethod": {
+              "@id": "https://w3id.org/security#assertionMethod",
+              "@type": "@id",
+              "@container": "@set"
+            },
+            "authentication": {
+              "@id": "https://w3id.org/security#authenticationMethod",
+              "@type": "@id",
+              "@container": "@set"
+            },
+            "capabilityInvocation": {
+              "@id": "https://w3id.org/security#capabilityInvocationMethod",
+              "@type": "@id",
+              "@container": "@set"
+            },
+            "capabilityDelegation": {
+              "@id": "https://w3id.org/security#capabilityDelegationMethod",
+              "@type": "@id",
+              "@container": "@set"
+            },
+            "keyAgreement": {
+              "@id": "https://w3id.org/security#keyAgreementMethod",
+              "@type": "@id",
+              "@container": "@set"
+            }
           }
+        },
+        "proofValue": {
+          "@id": "https://w3id.org/security#proofValue",
+          "@type": "https://w3id.org/security#multibase"
+        },
+        "verificationMethod": {
+          "@id": "https://w3id.org/security#verificationMethod",
+          "@type": "@id"
         }
-      },
-      "proofValue": {
-        "@id": "https://w3id.org/security#proofValue",
-        "@type": "https://w3id.org/security#multibase"
-      },
-      "verificationMethod": {
-        "@id": "https://w3id.org/security#verificationMethod",
-        "@type": "@id"
       }
     }
   }
