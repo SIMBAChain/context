@@ -10,7 +10,7 @@
         "@protected": true,
         "id": "@id",
         "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "type": "xsd:strng",
+        "type": "xsd:string",
         "name": "xsd:string",
         "schema": "xsd:string"
       }
