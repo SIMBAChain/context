@@ -12,7 +12,7 @@
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "type": "xsd:strng",
         "name": "xsd:string",
-        "schema": "xsd:string",
+        "schema": "xsd:string"
       }
     }
   }
