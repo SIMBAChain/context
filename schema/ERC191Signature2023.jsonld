@@ -3,7 +3,7 @@
     "@protected": true
   },
   "ERC191Signature2023": {
-    "@id": "https://simbachain.github.io/context/schemas/ERC191Signature2023.jsonld",
+    "@id": "https://simbachain.github.io/context/schema/ERC191Signature2023.jsonld",
     "@context": {
       "@protected": true,
       "id": "@id",
