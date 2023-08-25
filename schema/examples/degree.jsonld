@@ -2,7 +2,8 @@
   "@context": {
     "@protected": true,
     "@version": 1.0,
-    "ex": "https://simbachain.github.io/context/schema/examples#"
+    "ex": "https://simbachain.github.io/context/schema/examples#",
+    
     "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld",
     "@type": "ex:degree",
     "type": {"@id": "https://schema.org/educationalLevel", "@type": "@id"},
