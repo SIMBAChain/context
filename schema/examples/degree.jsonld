@@ -9,10 +9,9 @@
       "@context": {
         "@protected": true,
         "id": "@id",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
         "type": "https://schema.org/educationalLevel",
         "name": "https://schema.org/name",
-        "schema": "xsd:string"
+        "schema": "https://w3id.org/security#digestValue"
       }
     }
   }
