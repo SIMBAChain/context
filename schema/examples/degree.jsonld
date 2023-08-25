@@ -6,16 +6,16 @@
       "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#degree",
       "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "vocab": "https://simbachain.github.io/context/vocab/examples/degree.md",
+        "vocab": "",
         "@protected": true,
         "id": "@id",
         "type": "@type",
         "name": {
-          "@id": "vocab:name",
+          "@id": "https://simbachain.github.io/context/vocab/examples/degree.md#name",
           "@type": "xsd:string"
         },
         "schema": {
-          "@id": "vocab:schema",
+          "@id": "https://simbachain.github.io/context/vocab/examples/degree.md#schema",
           "@type": "xsd:string"
         }
       }
