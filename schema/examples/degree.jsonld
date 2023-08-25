@@ -10,7 +10,10 @@
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "@protected": true,
         "id": "@id",
-        "type": "@type",
+        "type": {
+          "@id": "https://simbachain.github.io/context/vocab/examples/degree.md#type",
+          "@type": "xsd:string"
+        },
         "name": {
           "@id": "https://simbachain.github.io/context/vocab/examples/degree.md#name",
           "@type": "xsd:string"
