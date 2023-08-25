@@ -1,19 +1,12 @@
 {
   "@context": {
     "@protected": true,
-    "@version": 1.1,
-    "id": "@id",
-    "type": "@type",
-    "degree": {
-      "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld",
-      "@type": "@id",
-      "@context": {
-        "@protected": true,
-        "id": "@id",
-        "type": {"@id": "https://schema.org/educationalLevel", "@type": "@id"},
-        "name": {"@id": "https://schema.org/name", "@type": "@id"},
-        "schema": {"@id": "https://w3id.org/security#digestValue", "@type": "@id"}
-      }
-    }
+    "@version": 1.0,
+    "ex": "https://simbachain.github.io/context/schema/examples#"
+    "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld",
+    "@type": "ex:degree",
+    "type": {"@id": "https://schema.org/educationalLevel", "@type": "@id"},
+    "name": {"@id": "https://schema.org/name", "@type": "@id"},
+    "schema": {"@id": "https://w3id.org/security#digestValue", "@type": "@id"}
   }
 }
