@@ -9,6 +9,7 @@
       "@context": {
         "@protected": true,
         "id": "@id",
+        "@type": "@type",
         "type": "https://schema.org/educationalLevel",
         "name": "https://schema.org/name",
         "schema": "https://w3id.org/security#digestValue"
