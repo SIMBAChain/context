@@ -7,8 +7,8 @@
       "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "@protected": true,
-        "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#degree",
-        "@type": "@id",
+        "id": "@id",
+        "type": "@type",
         "name": {
           "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#name",
           "@type": "xsd:string"
