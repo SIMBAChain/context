@@ -6,6 +6,7 @@
     "type": "@type",
     "degree": {
       "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld",
+      "@type": "@id",
       "@context": {
         "@protected": true,
         "id": "@id",
