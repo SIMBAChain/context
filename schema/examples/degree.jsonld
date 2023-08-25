@@ -8,9 +8,8 @@
       "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld",
       "@context": {
         "@protected": true,
-        "@id": "https://simbachain.github.io/context/schema/examples/degree",
-        "@type": "@id",
-        "type": "https://schema.org/educationalLevel",
+        "id": "@id",
+        "type": "@type",
         "name": "https://schema.org/name",
         "schema": "https://w3id.org/security#digestValue"
       }
