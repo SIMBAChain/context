@@ -5,21 +5,16 @@
     "degree": {
       "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld",
       "@context": {
-        "deg": "https://simbachain.github.io/context/schema/examples/degree#",
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "type": {
-          "@id": "deg:level",
-          "@type": "xsd:string"
-        },
         "name": {
-          "@id": "deg:name",
+          "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#name",
           "@type": "xsd:string"
         },
         "schema": {
-          "@id": "deg:schema",
+          "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#schema",
           "@type": "xsd:string"
         }
       }
