@@ -3,18 +3,19 @@
     "@protected": true,
     "@version": 1.1,
     "degree": {
-      "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld",
+      "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#degree",
       "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "vocab": "https://simbachain.github.io/context/vocab/examples/degree.md",
         "@protected": true,
         "id": "@id",
         "type": "@type",
         "name": {
-          "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#name",
+          "@id": "vocab:name",
           "@type": "xsd:string"
         },
         "schema": {
-          "@id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#schema",
+          "@id": "vocab:schema",
           "@type": "xsd:string"
         }
       }
