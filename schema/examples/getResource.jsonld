@@ -6,7 +6,7 @@
         "@id": "https://simbachain.github.io/context/schema/examples/getResource.jsonld",
         "@context": {
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "rg-vocab": "https://simbachain.github.io/context/vocab/examples/getResource.md",
+          "rg-vocab": "https://simbachain.github.io/context/vocab/examples/getResource.md#",
           "@protected": true,
           "id": "@id",
           "type": "@type",
