@@ -3,7 +3,7 @@
       "@protected": true,
       "@version": 1.1,
       "getResource": {
-        "@id": "https://simbachain.github.io/context/schema/examples/getResource.jsonld",
+        "@id": "https://simbachain.github.io/context/vocab/examples/getResource.jsonld#getResource",
         "@context": {
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "rg-vocab": "https://simbachain.github.io/context/vocab/examples/getResource.md#",
