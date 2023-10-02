@@ -1,6 +1,8 @@
 # degree
 
-a degree
+A degree
+
+The schema hash is 7597e6a6c6a18e0fa93ceadebda9705e
 
 # type
 
