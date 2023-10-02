@@ -1,10 +1,10 @@
 {
-    "7597e6a6c6a18e0fa93ceadebda9705e": {
+    "01a2c1560b43880555e63411ab139758": {
         "name": "degree",
-        "id": "https://simbachain.github.io/context/schema/examples/degree.jsonld#degree"
+        "id": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld#degree"
     },
-    "7c8557dc1ae7ecb54c32e81bfa155008": {
+    "04b2935a53343b33405a3396b0a4dfbe": {
         "name": "getResource",
-        "id": "https://simbachain.github.io/context/schema/examples/getResource.jsonld#getResource"
+        "id": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld#getResource"
     }
 }

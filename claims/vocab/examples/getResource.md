@@ -2,7 +2,7 @@
 
 A credential for getting a resource
 
-The schema hash is 7c8557dc1ae7ecb54c32e81bfa155008
+The schema hash is 04b2935a53343b33405a3396b0a4dfbe
 
 # uri
 
