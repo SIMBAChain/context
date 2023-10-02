@@ -1,4 +1,6 @@
-# Registry
+# Context
+
+## Registry
 
 The registry contains a list of claims schema URIs mapped to their schema hash. This can be used to browse
 the registry.
