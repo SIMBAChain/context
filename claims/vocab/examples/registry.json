@@ -1,5 +1,5 @@
 {
-  "schema": {
+  "schemas": {
     "01a2c1560b43880555e63411ab139758": {
       "name": "degree",
       "id": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld#degree",
