@@ -1,9 +1,9 @@
 {
   "schemas": {
-    "01a2c1560b43880555e63411ab139758": {
+    "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld": {
       "name": "degree",
       "id": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld#degree",
-      "url": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld",
+      "hash": "01a2c1560b43880555e63411ab139758",
       "attributes": [
         {
           "name": "type",
@@ -22,10 +22,10 @@
         }
       ]
     },
-    "04b2935a53343b33405a3396b0a4dfbe": {
+    "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld": {
       "name": "getResource",
       "id": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld#getResource",
-      "url": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld",
+      "hash": "04b2935a53343b33405a3396b0a4dfbe",
       "attributes": [
         {
           "name": "uri",
