@@ -7,6 +7,13 @@
     "04b2935a53343b33405a3396b0a4dfbe": {
         "name": "getResource",
         "id": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld#getResource",
-        "url": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld"
+        "url": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld",
+        "attributes": [
+            {
+                "name": "uri",
+                "type": "anyURI",
+                "id": "https://simbachain.github.io/context/claims/vocab/examples/getResource.md#uri"
+            }
+        ]
     }
 }
