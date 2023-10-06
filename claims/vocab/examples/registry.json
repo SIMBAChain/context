@@ -3,7 +3,24 @@
     "01a2c1560b43880555e63411ab139758": {
       "name": "degree",
       "id": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld#degree",
-      "url": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld"
+      "url": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld",
+      "attributes": [
+        {
+          "name": "type",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#type"
+        },
+        {
+          "name": "name",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#name"
+        },
+        {
+          "name": "schema",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#schema"
+        }
+      ]
     },
     "04b2935a53343b33405a3396b0a4dfbe": {
       "name": "getResource",
