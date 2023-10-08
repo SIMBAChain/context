@@ -11,15 +11,15 @@
         "@protected": true,
         "id": "@id",
         "type": {
-          "@id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#type",
+          "@id": "https://simbachain.github.io/context/claims/vocab/examples/disagree.md#type",
           "@type": "xsd:string"
         },
         "name": {
-          "@id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#name",
+          "@id": "https://simbachain.github.io/context/claims/vocab/examples/disagree.md#name",
           "@type": "xsd:string"
         },
         "schema": {
-          "@id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#schema",
+          "@id": "https://simbachain.github.io/context/claims/vocab/examples/disagree.md#schema",
           "@type": "xsd:string"
         }
       }
