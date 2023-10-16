@@ -6,7 +6,6 @@
     "id": "https://simbachain.github.io/context/claims/schema/examples/myName.jsonld#myName",
     "myName": {
       "@id": "https://simbachain.github.io/context/claims/vocab/examples/myName.md#myName",
-      "@protected": true,
       "type": "xsd:string"
     }
   }
