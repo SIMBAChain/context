@@ -37,8 +37,7 @@
           "hash": "359fcce8cf15bab1c1f3f74cffeb4966"
         }
       ]
-    }
-  },
+    },
     "https://simbachain.github.io/context/claims/schema/examples/name.jsonld": {
       "name": "name",
       "id": "https://simbachain.github.io/context/claims/schema/examples/name.jsonld#name",
