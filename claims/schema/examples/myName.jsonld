@@ -3,6 +3,12 @@
     "@version": 1.1,
     "@protected": true,
     "id": "@id",
-    "type": "@type"
+    "type": "@type",
+    "myName" : {
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+      "mn-vocab": "https://simbachain.github.io/context/claims/vocab/examples/myName.md#",
+      "@id": "mn-vocab:myName",
+      "@type": "xsd:dateTime"
+    }
   }
 }
