@@ -4,11 +4,11 @@
     "@protected": true,
     "id": "@id",
     "type": "@type",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "mn-vocab": "https://simbachain.github.io/context/claims/vocab/examples/myName.md#",
     "myName" : {
-      "xsd": "http://www.w3.org/2001/XMLSchema#",
-      "mn-vocab": "https://simbachain.github.io/context/claims/vocab/examples/myName.md#",
       "@id": "mn-vocab:myName",
-      "@type": "xsd:dateTime"
+      "@type": "xsd:string"
     }
   }
 }
