@@ -8,17 +8,20 @@
         {
           "name": "type",
           "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#type"
+          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#type",
+          "hash": "c8ce3c4149111dbc15052d1c955202a2"
         },
         {
           "name": "name",
           "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#name"
+          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#name",
+          "hash": "36aa6a714839eee2b0d096e7857b223a"
         },
         {
           "name": "schema",
           "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#schema"
+          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#schema",
+          "hash": "ac6788d991c5848d0a6003a65a3f2a4a"
         }
       ]
     },
@@ -30,7 +33,8 @@
         {
           "name": "uri",
           "type": "anyURI",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/getResource.md#uri"
+          "id": "https://simbachain.github.io/context/claims/vocab/examples/getResource.md#uri",
+          "hash": "359fcce8cf15bab1c1f3f74cffeb4966"
         }
       ]
     }
