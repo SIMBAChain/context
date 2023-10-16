@@ -1,7 +1,7 @@
-# myName
+# name
 
 A simple string name
 
 ```
-"myName": "Gwen"
+"name": "Gwen"
 ```

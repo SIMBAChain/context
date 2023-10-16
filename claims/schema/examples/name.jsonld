@@ -5,9 +5,9 @@
     "id": "@id",
     "type": "@type",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "mn-vocab": "https://simbachain.github.io/context/claims/vocab/examples/myName.md#",
-    "myName" : {
-      "@id": "mn-vocab:myName",
+    "mn-vocab": "https://simbachain.github.io/context/claims/vocab/examples/name.md#",
+    "name" : {
+      "@id": "mn-vocab:name",
       "@type": "xsd:string"
     }
   }
