@@ -7,7 +7,7 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "mn-vocab": "https://simbachain.github.io/context/claims/vocab/examples/name.md#",
     "name" : {
-      "@id": "https://simbachain.github.io/context/claims/schema/examples/myName.jsonld#name",
+      "@id": "mn-vocab:name",
       "@type": "xsd:string"
     }
   }
