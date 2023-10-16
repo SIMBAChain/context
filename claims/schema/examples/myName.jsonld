@@ -3,7 +3,7 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "@protected": true,
     "@version": 1.1,
-    "id": "@id",
+    "id": "https://simbachain.github.io/context/claims/schema/examples/myName.jsonld#myName",
     "type": "xsd:string"
   }
 }
