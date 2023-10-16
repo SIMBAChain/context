@@ -4,6 +4,10 @@
     "@protected": true,
     "@version": 1.1,
     "id": "https://simbachain.github.io/context/claims/schema/examples/myName.jsonld#myName",
-    "type": "xsd:string"
+    "myName": {
+      "@id": "https://simbachain.github.io/context/claims/vocab/examples/myName.md#myName",
+      "@protected": true,
+      "type": "xsd:string"
+    }
   }
 }
