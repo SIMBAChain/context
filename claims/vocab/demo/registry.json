@@ -1,15 +1,15 @@
 {
   "schemas": {
-    "https://simbachain.github.io/context/claims/schema/examples/representative.jsonld": {
+    "https://simbachain.github.io/context/claims/schema/demo/representative.jsonld": {
       "name": "representative",
-      "id": "https://simbachain.github.io/context/claims/schema/examples/representative.jsonld#representative",
-      "hash": "bac59e1107acb5569f00e73fe7ac5c41",
+      "id": "https://simbachain.github.io/context/claims/schema/demo/representative.jsonld#representative",
+      "hash": "c095740618a8611c2e828310e9b4fca0",
       "attributes": [
         {
           "name": "title",
           "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/representative.md#title",
-          "hash": "896178e1791521439a862987ae03fa6d"
+          "id": "https://simbachain.github.io/context/claims/vocab/demo/representative.md#title",
+          "hash": "d10574d40161ceda6eae7a382111bbed"
         }
       ]
     }

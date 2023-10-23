@@ -5,13 +5,13 @@
     "id": "@id",
     "type": "@type",
     "representative": {
-      "@id": "https://simbachain.github.io/context/claims/schema/examples/representative.jsonld#representative",
+      "@id": "https://simbachain.github.io/context/claims/schema/demo/representative.jsonld#representative",
       "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "@protected": true,
         "id": "@id",
         "title": {
-          "@id": "https://simbachain.github.io/context/claims/vocab/examples/representative.md#title",
+          "@id": "https://simbachain.github.io/context/claims/vocab/demo/representative.md#title",
           "@type": "xsd:string"
         }
       }

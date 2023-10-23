@@ -2,13 +2,13 @@
 
 A credential for a representative role
 
-The schema hash is bac59e1107acb5569f00e73fe7ac5c41
+The schema hash is c095740618a8611c2e828310e9b4fca0
 
 # title
 
 The title of the representative role.
 
-The attribute hash is 896178e1791521439a862987ae03fa6d
+The attribute hash is d10574d40161ceda6eae7a382111bbed
 
 ```
 "title": "FSR"
