@@ -1,48 +1,48 @@
 {
-  "schemas": {
-    "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld": {
-      "name": "degree",
-      "id": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld#degree",
-      "hash": "01a2c1560b43880555e63411ab139758",
-      "attributes": [
-        {
-          "name": "type",
-          "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#type",
-          "hash": "c8ce3c4149111dbc15052d1c955202a2"
+    "schemas": {
+        "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld": {
+            "name": "degree",
+            "id": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld#degree",
+            "hash": "01a2c1560b43880555e63411ab139758",
+            "attributes": [
+                {
+                    "name": "type",
+                    "type": "string",
+                    "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#type",
+                    "hash": "c8ce3c4149111dbc15052d1c955202a2"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#name",
+                    "hash": "36aa6a714839eee2b0d096e7857b223a"
+                },
+                {
+                    "name": "schema",
+                    "type": "string",
+                    "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#schema",
+                    "hash": "ac6788d991c5848d0a6003a65a3f2a4a"
+                }
+            ]
         },
-        {
-          "name": "name",
-          "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#name",
-          "hash": "36aa6a714839eee2b0d096e7857b223a"
+        "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld": {
+            "name": "getResource",
+            "id": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld#getResource",
+            "hash": "04b2935a53343b33405a3396b0a4dfbe",
+            "attributes": [
+                {
+                    "name": "uri",
+                    "type": "anyURI",
+                    "id": "https://simbachain.github.io/context/claims/vocab/examples/getResource.md#uri",
+                    "hash": "359fcce8cf15bab1c1f3f74cffeb4966"
+                }
+            ]
         },
-        {
-          "name": "schema",
-          "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#schema",
-          "hash": "ac6788d991c5848d0a6003a65a3f2a4a"
+        "https://simbachain.github.io/context/claims/schema/examples/name.jsonld": {
+            "name": "name",
+            "id": "https://simbachain.github.io/context/claims/schema/examples/name.jsonld#name",
+            "hash": "4c413c18410e420197cc0e3ad033edee",
+            "attributes": []
         }
-      ]
-    },
-    "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld": {
-      "name": "getResource",
-      "id": "https://simbachain.github.io/context/claims/schema/examples/getResource.jsonld#getResource",
-      "hash": "04b2935a53343b33405a3396b0a4dfbe",
-      "attributes": [
-        {
-          "name": "uri",
-          "type": "anyURI",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/getResource.md#uri",
-          "hash": "359fcce8cf15bab1c1f3f74cffeb4966"
-        }
-      ]
-    },
-    "https://simbachain.github.io/context/claims/schema/examples/name.jsonld": {
-      "name": "name",
-      "id": "https://simbachain.github.io/context/claims/schema/examples/name.jsonld#name",
-      "hash": "4c413c18410e420197cc0e3ad033edee",
-      "attributes": []
     }
-  }
 }

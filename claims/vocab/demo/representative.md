@@ -1,13 +1,15 @@
-# getResource
+# representative
 
-A credential for getting a resource
+A credential for a representative role
 
-The schema hash is 04b2935a53343b33405a3396b0a4dfbe
+The schema hash is bac59e1107acb5569f00e73fe7ac5c41
 
-# uri
+# title
 
-The URI of the resource
+The title of the representative role.
+
+The attribute hash is 896178e1791521439a862987ae03fa6d
 
 ```
-"uri": "https://example.com/resources/12345"
+"title": "FSR"
 ```

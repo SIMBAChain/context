@@ -4,22 +4,14 @@
     "@version": 1.1,
     "id": "@id",
     "type": "@type",
-    "degree": {
-      "@id": "https://simbachain.github.io/context/claims/schema/examples/degree.jsonld#degree",
+    "representative": {
+      "@id": "https://simbachain.github.io/context/claims/schema/examples/representative.jsonld#representative",
       "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "@protected": true,
         "id": "@id",
-        "type": {
-          "@id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#type",
-          "@type": "xsd:string"
-        },
-        "name": {
-          "@id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#name",
-          "@type": "xsd:string"
-        },
-        "schema": {
-          "@id": "https://simbachain.github.io/context/claims/vocab/examples/degree.md#schema",
+        "title": {
+          "@id": "https://simbachain.github.io/context/claims/vocab/examples/representative.md#title",
           "@type": "xsd:string"
         }
       }
