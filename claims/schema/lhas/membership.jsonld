@@ -10,7 +10,7 @@
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "@protected": true,
         "id": "@id",
-        "title": {
+        "group": {
           "@id": "https://simbachain.github.io/context/claims/vocab/lhas/membership.md#group",
           "@type": "xsd:string"
         }
