@@ -1,0 +1,17 @@
+{
+  "schemas": {
+    "https://simbachain.github.io/context/claims/schema/demo/representative.jsonld": {
+      "name": "representative",
+      "id": "https://simbachain.github.io/context/claims/schema/lhas/membership.jsonld#membership",
+      "hash": "75b5df0404e19ada2aa0c6c44234b6de",
+      "attributes": [
+        {
+          "name": "title",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/lhas/membership.md#group",
+          "hash": "d76f8768e03dc1be4381e308c584bfbf"
+        }
+      ]
+    }
+  }
+}
