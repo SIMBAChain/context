@@ -2,7 +2,7 @@
 
 A degree
 
-The schema hash is 01a2c1560b43880555e63411ab139758
+The schema hash is 7761cf41dfb6b90e809e8a8b361dffc8
 
 # type
 

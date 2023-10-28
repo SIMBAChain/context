@@ -3,13 +3,13 @@
     "https://simbachain.github.io/context/claims/schema/demo/representative.jsonld": {
       "name": "representative",
       "id": "https://simbachain.github.io/context/claims/schema/demo/representative.jsonld#representative",
-      "hash": "c095740618a8611c2e828310e9b4fca0",
+      "hash": "0ddb19425fe6a6148187eca2d69f5daa",
       "attributes": [
         {
           "name": "title",
           "type": "string",
           "id": "https://simbachain.github.io/context/claims/vocab/demo/representative.md#title",
-          "hash": "d10574d40161ceda6eae7a382111bbed"
+          "hash": "42f16407019d74c8756cf6faa3685461"
         }
       ]
     }
