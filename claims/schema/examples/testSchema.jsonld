@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@protected": true,
+    "@version": 1.1,
+    "testSchema": {
+      "@id": "https://simbachain.github.io/context/claims/schema/examples/testSchema.jsonld#testSchema",
+      "@context": {
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "rg-vocab": "https://simbachain.github.io/context/claims/vocab/examples/testSchema.md#",
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "name": {
+          "@id": "rg-vocab:name",
+          "@type": "xsd:string"
+        },
+        "dob": {
+          "@id": "rg-vocab:dob",
+          "@type": "xsd:date"
+        }
+      }
+    }
+  }
+}
