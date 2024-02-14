@@ -44,24 +44,5 @@
       "hash": "fe58f951f006256f995eae64ce14dc7d",
       "attributes": []
     }
-  },
-  "https://simbachain.github.io/context/claims/schema/examples/testSchema.jsonld": {
-    "name": "testSchema",
-    "id": "https://simbachain.github.io/context/claims/schema/examples/testSchema.jsonld#testSchema",
-    "hash": "535a0233a3630d8d4fdfb9e4f0aa05ca",
-    "attributes": [
-      {
-        "name": "name",
-        "type": "string",
-        "id": "https://simbachain.github.io/context/claims/vocab/examples/testSchema.md#name",
-        "hash": "094f88879b3fd1a8ce7ab9f7789c3983"
-      },
-      {
-        "name": "dob",
-        "type": "date",
-        "id": "https://simbachain.github.io/context/claims/vocab/examples/testSchema.md#dob",
-        "hash": "934998328824e4cf5b1c6e34d44843ed"
-      }
-    ]
   }
 }
