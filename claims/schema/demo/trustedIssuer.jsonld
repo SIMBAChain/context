@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@protected": true,
+    "@version": 1.1,
+    "trustedIssuer": {
+      "@id": "https://simbachain.github.io/context/claims/schema/demo/trustedIssuer.jsonld#trustedIssuer",
+      "@context": {
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "rg-vocab": "https://simbachain.github.io/context/claims/vocab/demo/trustedIssuer.md#",
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "issuer": {
+          "@id": "rg-vocab:issuer",
+          "@type": "xsd:string"
+        }
+      }
+    }
+  }
+}
