@@ -25,6 +25,19 @@
           "hash": "80aa4373a3d71340b7c074d056f4e957"
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/demo/trustedIssuer.jsonld": {
+      "name": "trustedIssuer",
+      "id": "https://simbachain.github.io/context/claims/schema/demo/trustedIssuer.jsonld#trustedIssuer",
+      "hash": "1b9ec70a66ead3e55c914eacbe0beb5b",
+      "attributes": [
+        {
+          "name": "issuer",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/demo/trustedIssuer.md#issuer",
+          "hash": "45c91e6126724711cc211a9e921c5dbc"
+        }
+      ]
     }
   }
 }
