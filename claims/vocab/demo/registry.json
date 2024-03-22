@@ -12,6 +12,19 @@
           "hash": "42f16407019d74c8756cf6faa3685461"
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/demo/trustedSubject.jsonld": {
+      "name": "trustedSubject",
+      "id": "https://simbachain.github.io/context/claims/schema/demo/trustedSubject.jsonld#trustedSubject",
+      "hash": "a2f1df6c55482a7bc0f5b6cf66df8ec4",
+      "attributes": [
+        {
+          "name": "subject",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/demo/trustedSubject.md#subject",
+          "hash": "80aa4373a3d71340b7c074d056f4e957"
+        }
+      ]
     }
   }
 }
