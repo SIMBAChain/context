@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@protected": true,
+    "@version": 1.1,
+    "groupMembership": {
+      "@id": "https://simbachain.github.io/context/claims/schema/qa-domain1/groupMembership.jsonld#groupMembership",
+      "@context": {
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "rg-vocab": "https://simbachain.github.io/context/claims/vocab/qa-domain1/groupMembership.md#",
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "group": {
+          "@id": "rg-vocab:group",
+          "@type": "xsd:string"
+        }
+      }
+    }
+  }
+}
