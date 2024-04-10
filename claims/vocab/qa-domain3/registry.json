@@ -1,0 +1,17 @@
+{
+  "schemas": {
+    "https://simbachain.github.io/context/claims/schema/qa-domain3/groupMembership.jsonld": {
+      "name": "groupMembership",
+      "id": "https://simbachain.github.io/context/claims/schema/qa-domain3/groupMembership.jsonld#groupMembership",
+      "hash": "f400f2cb9da465f3733605922565b32f",
+      "attributes": [
+        {
+          "name": "group",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/qa-domain3/groupMembership.md#group",
+          "hash": "267b70e2b0b134b6c249177ec9a65e4e"
+        }
+      ]
+    }
+  }
+}
