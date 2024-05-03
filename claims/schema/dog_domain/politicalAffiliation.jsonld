@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@protected": true,
+    "@version": 1.1,
+    "politicalAffiliation": {
+      "@id": "https://simbachain.github.io/context/claims/schema/dog_domain/politicalAffiliation.jsonld#politicalAffiliation",
+      "@context": {
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "rg-vocab": "https://simbachain.github.io/context/claims/vocab/dog_domain/politicalAffiliation.md#",
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "party": {
+          "@id": "rg-vocab:party",
+          "@type": "xsd:string"
+        }
+      }
+    }
+  }
+}
