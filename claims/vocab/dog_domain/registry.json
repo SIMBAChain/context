@@ -19,6 +19,26 @@
           ]
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/dog_domain/favouriteMusic.jsonld": {
+      "name": "favouriteMusic",
+      "id": "https://simbachain.github.io/context/claims/schema/dog_domain/favouriteMusic.jsonld#favouriteMusic",
+      "hash": "81a34fa1d72af14cc0065eb40c7f6805",
+      "attributes": [
+        {
+          "name": "genre",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/dog_domain/favouriteMusic.md#genre",
+          "hash": "bb812fad2ef168142ab99c98f9ad24f3",
+          "suggestedValues": [
+            "Rock",
+            "Techno",
+            "Pop",
+            "Country",
+            "Hip Hop"
+          ]
+        }
+      ]
     }
   }
 }
