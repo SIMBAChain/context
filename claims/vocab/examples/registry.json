@@ -43,26 +43,6 @@
       "id": "https://simbachain.github.io/context/claims/schema/examples/name.jsonld#name",
       "hash": "fe58f951f006256f995eae64ce14dc7d",
       "attributes": []
-    },
-    "https://simbachain.github.io/context/claims/schema/examples/politicalAffiliation.jsonld": {
-      "name": "politicalAffiliation",
-      "id": "https://simbachain.github.io/context/claims/schema/examples/politicalAffiliation.jsonld#politicalAffiliation",
-      "hash": "1c3bf112cb310ac32a26208d7caa7c4d",
-      "attributes": [
-        {
-          "name": "party",
-          "type": "string",
-          "id": "https://simbachain.github.io/context/claims/vocab/examples/politicalAffiliation.md#party",
-          "hash": "d2bf297c229e7b79fe07d3216d645105",
-          "suggestedValues": [
-            "Labour",
-            "Tory",
-            "Lib Dem",
-            "Plaid Cymru",
-            "Monster Raving Loony"
-          ]
-        }
-      ]
     }
   }
 }
