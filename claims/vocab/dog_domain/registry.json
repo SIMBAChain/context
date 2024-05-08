@@ -59,6 +59,26 @@
           ]
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/dog_domain/favouriteLanguage.jsonld": {
+      "name": "favouriteLanguage",
+      "id": "https://simbachain.github.io/context/claims/schema/dog_domain/favouriteLanguage.jsonld#favouriteLanguage",
+      "hash": "e03a8b3f46745fc43313e84b0417ff00",
+      "attributes": [
+        {
+          "name": "name",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/dog_domain/favouriteLanguage.md#name",
+          "hash": "e51c2564329f73c6e73ccb80484c1973",
+          "suggestedValues": [
+            "French",
+            "Italian",
+            "Spanish",
+            "Mandarin",
+            "Japanese"
+          ]
+        }
+      ]
     }
   }
 }
