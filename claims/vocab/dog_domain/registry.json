@@ -79,6 +79,26 @@
           ]
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/dog_domain/favouriteSuperCarBrand.jsonld": {
+      "name": "favouriteSuperCarBrand",
+      "id": "https://simbachain.github.io/context/claims/schema/dog_domain/favouriteSuperCarBrand.jsonld#favouriteSuperCarBrand",
+      "hash": "408598d47dd2704d258bfc6b63bed5de",
+      "attributes": [
+        {
+          "name": "name",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/dog_domain/favouriteSuperCarBrand.md#name",
+          "hash": "1d807a19455c0579fe1ea0f5cbc18d99",
+          "suggestedValues": [
+            "Ferrari",
+            "Lamborghini",
+            "Bugatti",
+            "Koenigsegg",
+            "Porsche"
+          ]
+        }
+      ]
     }
   }
 }
