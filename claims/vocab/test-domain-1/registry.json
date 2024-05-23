@@ -1,0 +1,24 @@
+{
+  "schemas": {
+    "https://simbachain.github.io/context/claims/schema/test-domain-1/politicalAffiliation.jsonld": {
+      "name": "politicalAffiliation",
+      "id": "https://simbachain.github.io/context/claims/schema/test-domain-1/politicalAffiliation.jsonld#politicalAffiliation",
+      "hash": "cdc698d580fa2a7e5aa186babe0c2f65",
+      "attributes": [
+        {
+          "name": "party",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/test-domain-1/politicalAffiliation.md#party",
+          "hash": "0bbfbf4229d415a5ec3879e3c66b0e16",
+          "suggestedValues": [
+            "Labour",
+            "Conservative",
+            "Liberal Democrats",
+            "Plaid Cymru",
+            "Monster Raving Loony"
+          ]
+        }
+      ]
+    }
+  }
+}
