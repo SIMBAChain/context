@@ -39,6 +39,26 @@
           ]
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/test-domain-1/favouriteTV.jsonld": {
+      "name": "favouriteTV",
+      "id": "https://simbachain.github.io/context/claims/schema/test-domain-1/favouriteTV.jsonld#favouriteTV",
+      "hash": "8593328fe692e26fc809bc0c4a1b3c0d",
+      "attributes": [
+        {
+          "name": "name",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/test-domain-1/favouriteTV.md#name",
+          "hash": "40c32a126df88cba6a8a8ded44803595",
+          "suggestedValues": [
+            "House of Cards",
+            "Breaking Bad",
+            "Severance",
+            "The Wire",
+            "Better Call Saul"
+          ]
+        }
+      ]
     }
   }
 }
