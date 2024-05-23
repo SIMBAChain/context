@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@protected": true,
+    "@version": 1.1,
+    "favouriteTV": {
+      "@id": "https://simbachain.github.io/context/claims/schema/test-domain-1/favouriteTV.jsonld#favouriteTV",
+      "@context": {
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "rg-vocab": "https://simbachain.github.io/context/claims/vocab/test-domain-1/favouriteTV.md#",
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "name": {
+          "@id": "rg-vocab:name",
+          "@type": "xsd:string"
+        }
+      }
+    }
+  }
+}
