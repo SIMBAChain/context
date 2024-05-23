@@ -12,6 +12,26 @@
           "hash": "d2e5d5828a9924ac9fa7833b5b8747be"
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/qa-domain1/testing.jsonld": {
+      "name": "testing",
+      "id": "https://simbachain.github.io/context/claims/schema/qa-domain1/testing.jsonld#testing",
+      "hash": "5d39c801bd544f06cee0a3438cc203d6",
+      "attributes": [
+        {
+          "name": "party",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/qa-domain1/testing.md#party",
+          "hash": "e3b7b2034b5b8d824d011de0974df5b2",
+          "suggestedValues": [
+            "Labour",
+            "Conservative",
+            "Liberal Democrats",
+            "Plaid Cymru",
+            "Monster Raving Loony"
+          ]
+        }
+      ]
     }
   }
 }
