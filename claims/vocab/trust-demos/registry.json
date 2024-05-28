@@ -1,0 +1,20 @@
+{
+  "schemas": {
+    "https://simbachain.github.io/context/claims/schema/trust-demos/test.jsonld": {
+      "name": "test",
+      "id": "https://simbachain.github.io/context/claims/schema/trust-demos/test.jsonld#test",
+      "hash": "c6625d78224d6b4737352a9a61ccbeda",
+      "attributes": [
+        {
+          "name": "type",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/trust-demos/test.md#type",
+          "hash": "7d058d941fbf7c7097aa36590fefd83e",
+          "suggestedValues": [
+            "wallet"
+          ]
+        }
+      ]
+    }
+  }
+}
