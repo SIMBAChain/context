@@ -1,0 +1,25 @@
+{
+  "schemas": {
+    "https://simbachain.github.io/context/claims/schema/gr-domain1/favouriteMusic.jsonld": {
+      "name": "favouriteMusic",
+      "id": "https://simbachain.github.io/context/claims/schema/gr-domain1/favouriteMusic.jsonld#favouriteMusic",
+      "hash": "fc7efb67e437e61b4e57f341bf5aa8fb",
+      "attributes": [
+        {
+          "name": "genre",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/gr-domain1/favouriteMusic.md#genre",
+          "hash": "6f9090735e9427d177297ba548747bb0",
+          "suggestedValues": [
+            "Blues",
+            "Rock",
+            "Techno",
+            "Pop",
+            "Country",
+            "Hip Hop"
+          ]
+        }
+      ]
+    }
+  }
+}
