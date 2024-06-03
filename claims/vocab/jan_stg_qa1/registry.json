@@ -19,6 +19,27 @@
           ]
         }
       ]
+    },
+    "https://simbachain.github.io/context/claims/schema/jan_stg_qa1/favouriteMusic.jsonld": {
+      "name": "favouriteMusic",
+      "id": "https://simbachain.github.io/context/claims/schema/jan_stg_qa1/favouriteMusic.jsonld#favouriteMusic",
+      "hash": "31696bae06343be7bc8a541a76748c32",
+      "attributes": [
+        {
+          "name": "genre",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/jan_stg_qa1/favouriteMusic.md#genre",
+          "hash": "8d0f303d8dadfe648181f4f63d8af899",
+          "suggestedValues": [
+            "Blues",
+            "Rock",
+            "Techno",
+            "Pop",
+            "Country",
+            "Hip Hop"
+          ]
+        }
+      ]
     }
   }
 }
