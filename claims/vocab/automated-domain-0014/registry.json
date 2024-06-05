@@ -1,0 +1,24 @@
+{
+  "schemas": {
+    "https://simbachain.github.io/context/claims/schema/automated-domain-0014/favColor.jsonld": {
+      "name": "favColor",
+      "id": "https://simbachain.github.io/context/claims/schema/automated-domain-0014/favColor.jsonld#favColor",
+      "hash": "5fef9a8592b905fb1f8f841d36c7d3b3",
+      "attributes": [
+        {
+          "name": "color",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/automated-domain-0014/favColor.md#color",
+          "hash": "332ca0916cc8b969a7d0b6bca6473a69",
+          "suggestedValues": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green",
+            "Purple"
+          ]
+        }
+      ]
+    }
+  }
+}
