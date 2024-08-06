@@ -1,0 +1,56 @@
+{
+  "schemas": {
+    "https://simbachain.github.io/context/claims/schema/perf-domain/teamMembership.jsonld": {
+      "name": "teamMembership",
+      "id": "https://simbachain.github.io/context/claims/schema/perf-domain/teamMembership.jsonld#teamMembership",
+      "hash": "b49420af40046c826216392ee8736af6",
+      "attributes": [
+        {
+          "name": "project",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/perf-domain/teamMembership.md#project",
+          "hash": "b1510a01ff7aa04f8562f73b0aa908fe",
+          "suggestedValues": [
+            "E616"
+          ]
+        },
+        {
+          "name": "affiliation",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/perf-domain/teamMembership.md#affiliation",
+          "hash": "79131bf4be52caba2f9192bd87ae1b9f",
+          "suggestedValues": [
+            "AFRL",
+            "SIMBA"
+          ]
+        },
+        {
+          "name": "task",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/perf-domain/teamMembership.md#task",
+          "hash": "bbe10bbac36bf1dec18f1cf5707b7126",
+          "suggestedValues": [
+            "Objective1",
+            "Objective2",
+            "Objective3",
+            "Objective4",
+            "Management"
+          ]
+        },
+        {
+          "name": "responsibility",
+          "type": "string",
+          "id": "https://simbachain.github.io/context/claims/vocab/perf-domain/teamMembership.md#responsibility",
+          "hash": "d5084bd9e939bcf861f8c2265b19cc05",
+          "suggestedValues": [
+            "Engineering",
+            "Finance",
+            "Leadership",
+            "ProjectManagement",
+            "QA"
+          ]
+        }
+      ]
+    }
+  }
+}
