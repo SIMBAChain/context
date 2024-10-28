@@ -31,6 +31,7 @@
           "id": "https://simbachain.github.io/context/claims/vocab/dog_domain/favouriteMusic.md#genre",
           "hash": "bb812fad2ef168142ab99c98f9ad24f3",
           "suggestedValues": [
+            "Blues",
             "Rock",
             "Techno",
             "Pop",
