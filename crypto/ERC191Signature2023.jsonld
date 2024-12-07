@@ -5,7 +5,7 @@
     "id": "@id",
     "type": "@type",
     "ERC191Signature2023": {
-      "@id": "https://simbachain.github.io/context/schema/ERC191Signature2023.jsonld",
+      "@id": "https://simbachain.github.io/context/crypto#ERC191Signature2023",
       "@context": {
         "@protected": true,
         "id": "@id",
@@ -51,7 +51,7 @@
         },
         "proofValue": {
           "@id": "https://w3id.org/security#proofValue",
-          "@type": "https://w3id.org/security#multibase"
+          "@type": "https://simbachain.github.io/context/crypto#multibase"
         },
         "verificationMethod": {
           "@id": "https://w3id.org/security#verificationMethod",

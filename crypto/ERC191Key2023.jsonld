@@ -5,12 +5,12 @@
     "id": "@id",
     "type": "@type",
     "ERC191Key2023": {
-      "@id": "https://simbachain.github.io/context/schema/ERC191Key2023.jsonld",
+      "@id": "https://simbachain.github.io/context/crypto#ERC191Key2023",
       "@context": {
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "blockchainAccountId": {"@id": "https://w3id.org/security#blockchainAccountId", "@type": "@id"},
+        "blockchainAccountId": {"@id": "https://simbachain.github.io/context/crypto#blockchainAccountId", "@type": "@id"},
         "controller": {"@id": "https://w3id.org/security#controller","@type": "@id"}
       }
     }
