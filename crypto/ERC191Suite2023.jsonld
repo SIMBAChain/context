@@ -10,7 +10,7 @@
       "@container": "@graph"
     },
     "ERC191Key2023": {
-      "@id": "https://simbachain.com/vc#ERC191Key2023",
+      "@id": "https://w3id.org/security#ERC191Key2023",
       "@context": {
         "@protected": true,
         "id": "@id",
@@ -24,8 +24,8 @@
           "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
         "blockchainAccountId": {
-          "@id": "https://simbachain.com/vc#blockchainAccountId",
-          "@type": "https://simbachain.com/vc#blockchainAccountId"
+          "@id": "https://w3id.org/security#blockchainAccountId",
+          "@type": "https://w3id.org/security#blockchainAccountId"
         }
       }
     },
