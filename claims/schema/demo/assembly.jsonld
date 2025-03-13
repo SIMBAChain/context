@@ -8,7 +8,7 @@
     "Assembly": {
       "@id": "ass:Assembly",
       "@type": "@id",
-      "name": "http://www.w3.org/2001/XMLSchema#string",
+      "aName": "http://www.w3.org/2001/XMLSchema#string",
       "subAssembly": {
         "@id": "ass:Assembly",
         "@type": "@id"
