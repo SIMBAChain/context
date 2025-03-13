@@ -7,9 +7,19 @@
     "@version": 1.1,
     "Assembly": {
       "@id": "ass:Assembly",
-      "@type": "@id",
-      "aName": "http://www.w3.org/2001/XMLSchema#string",
-      "subAssembly": "ass:Assembly",
+      "@context": {
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "@protected": true,
+        "id": "@id",
+        "name": {
+          "@id": "ass:name",
+          "@type": "xsd:string"
+        },
+        "subAssembly": {
+          "@id": "ass:subAssembly",
+          "@type": "ass:Assembly"
+        }
+      }
     }
   }
 }
