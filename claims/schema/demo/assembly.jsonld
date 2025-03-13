@@ -1,0 +1,8 @@
+{
+  "@context": {
+    "ass": "https://simbachain.github.io/context/claims/schema/demo/assembly.jsonld#",
+    "Component": "ass:Component",
+    "Assembly": "ass:Assembly",
+    "SubAssembly": "ass:SubAssembly"
+  }
+}
