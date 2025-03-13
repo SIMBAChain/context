@@ -5,13 +5,17 @@
     "type": "@type",
     "@protected": true,
     "@version": 1.1,
+    "name": {
+      "@id": "ass:name",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    }
     "Assembly": {
       "@id": "ass:Assembly",
       "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "@protected": true,
         "id": "@id",
-        "name": "xsd:string",
+        "name": "ass:name",
         "subAssembly": {
           "@id": "ass:subAssembly",
           "@type": "ass:Assembly"
