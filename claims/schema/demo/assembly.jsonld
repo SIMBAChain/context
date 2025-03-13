@@ -1,8 +1,18 @@
 {
   "@context": {
     "ass": "https://simbachain.github.io/context/claims/schema/demo/assembly.jsonld#",
-    "Component": "ass:Component",
-    "Assembly": "ass:Assembly",
-    "SubAssembly": "ass:SubAssembly"
+    "id": "@id",
+    "type": "@type",
+    "@protected": true,
+    "@version": 1.1,
+    "Assembly": {
+      "@id": "ass:Assembly",
+      "@type": "@id",
+      "name": "http://www.w3.org/2001/XMLSchema#string",
+      "subAssembly": {
+        "@id": "ass:Assembly",
+        "@type": "@id"
+      }
+    }
   }
 }
