@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@protected": true,
+    "@version": 1.1,
+    "dataKey": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#dataKey",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "dataProof": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#dataProof",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "treeNode": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#treeNode",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "treeNodeValue": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#treeNodeValue",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "treeRoot": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#treeRoot",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "trustedIssuer": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#trustedIssuer",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "issuerDomain": {
+          "@id": "https://simbachain.github.io/context/proof/anchor#issuerDomain",
+          "@type": "http://www.w3.org/2001/XMLSchema#string",
+        },
+        "issuerClaims": {
+          "@id": "https://simbachain.github.io/context/proof/anchor#issuerClaims",
+          "@type": "@id",
+          "@container": "@set"
+        }
+     }
+   }
+}
