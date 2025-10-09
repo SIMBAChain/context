@@ -24,8 +24,8 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#treeRoot",
       "@type": "http://www.w3.org/2001/XMLSchema#string"
     },
-    "TrustedIssuer": {
-      "@id": "https://simbachain.github.io/context/proof/vc#TrustedIssuer",
+    "TrustedIssuerCredential": {
+      "@id": "https://simbachain.github.io/context/proof/vc#TrustedIssuerCredential",
       "@type": "http://www.w3.org/2001/XMLSchema#string"
     },
     "trustedIssuer": {
