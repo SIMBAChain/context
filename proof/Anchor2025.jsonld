@@ -26,11 +26,15 @@
     },
     "TrustedIssuerCredential": {
       "@id": "https://simbachain.github.io/context/proof/anchor#TrustedIssuerCredential",
-      "@type": "http://www.w3.org/2001/XMLSchema#string"
+      "@type": "@id"
     },
     "IdentityCredential": {
       "@id": "https://simbachain.github.io/context/proof/anchor#IdentityCredential",
-      "@type": "http://www.w3.org/2001/XMLSchema#string"
+      "@type": "@id"
+    },
+    "BlankNode": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#BlankNode",
+      "@type": "@id"
     },
     "trustedIssuer": {
       "@id": "https://simbachain.github.io/context/proof/anchor#trustedIssuer",
