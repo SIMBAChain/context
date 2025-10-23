@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+    "prov": "http://www.w3.org/ns/prov#",
+    "Agent": {
+      "@id": "prov:Agent",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "label": {
+          "@id": "prov:label",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
+        },
+        "location": {
+          "@id": "prov:location"
+        }
+      }
+    },
+    "Entity": {
+      "@id": "prov:Entity",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        },
+        "wasGeneratedBy": {
+          "@id": "prov:wasGeneratedBy",
+          "@type": "@id"
+        },
+        "wasAttributedTo": {
+          "@id": "prov:wasAttributedTo",
+          "@type": "@id"
+        },
+        "label": {
+          "@id": "prov:label",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
+        },
+        "location": {
+          "@id": "prov:location"
+        }
+      }
+    },
+    "Activity": {
+      "@id": "prov:Activity",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "startedAtTime": {
+          "@id": "prov:startedAtTime",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "endedAtTime": {
+          "@id": "prov:endedAtTime",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "wasAssociatedWith": {
+          "@id": "prov:wasAssociatedWith",
+          "@type": "@id"
+        },
+        "label": {
+          "@id": "prov:label",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
+        },
+        "location": {
+          "@id": "prov:location"
+        }
+      }
+    }
+  }
+}
