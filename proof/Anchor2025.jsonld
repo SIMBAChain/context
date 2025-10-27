@@ -24,6 +24,18 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#treeRoot",
       "@type": "http://www.w3.org/2001/XMLSchema#string"
     },
+    "transaction": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#transaction",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "chain": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#chain",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "contract": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#contract",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
     "sensitivity": {
       "@id": "https://simbachain.github.io/context/proof/anchor#sensitivity",
       "@type": "http://www.w3.org/2001/XMLSchema#string"
