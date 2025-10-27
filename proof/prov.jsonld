@@ -10,6 +10,10 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
+        "actedOnBehalfOf": {
+          "@id": "prov:actedOnBehalfOf",
+          "@type": "@id"
+        },
         "label": {
           "@id": "prov:label",
           "@type": "http://www.w3.org/2001/XMLSchema#string"
@@ -62,6 +66,14 @@
         },
         "wasAssociatedWith": {
           "@id": "prov:wasAssociatedWith",
+          "@type": "@id"
+        },
+        "wasInformedBy": {
+          "@id": "prov:wasInformedBy",
+          "@type": "@id"
+        },
+        "used": {
+          "@id": "prov:used",
           "@type": "@id"
         },
         "label": {
