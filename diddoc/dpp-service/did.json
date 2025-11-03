@@ -1,0 +1,21 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://www.w3.org/ns/credentials/v2"
+  ],
+  "id": "did:web:simbachain.github.io:context:diddoc:dpp-service",
+  "verificationMethod": [
+    {
+      "id": "did:web:simbachain.github.io:context:diddoc:dpp-service#1",
+      "controller": "did:web:simbachain.github.io:context:diddoc:dpp-service",
+      "type": "Multikey",
+      "publicKeyMultibase": "zQ3shMfPr4CiDdy3EUU8otpJMWweDMpyjypT2cmmTsx8ziRYz"
+    }
+  ],
+  "authentication": [
+    "did:web:simbachain.github.io:context:diddoc:dpp-service#1"
+  ],
+  "assertionMethod": [
+    "did:web:simbachain.github.io:context:diddoc:dpp-service#1"
+  ]
+}
