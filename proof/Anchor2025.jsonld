@@ -48,6 +48,10 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#TrustedIssuerCredential",
       "@type": "@id"
     },
+    "TrustedIssuerSubjectCredential": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#TrustedIssuerSubjectCredential",
+      "@type": "@id"
+    },
     "IdentityCredential": {
       "@id": "https://simbachain.github.io/context/proof/anchor#IdentityCredential",
       "@type": "@id"
