@@ -103,8 +103,8 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "credentialId": {
-          "@id": "https://simbachain.github.io/context/proof/anchor#credentialId",
+        "credential": {
+          "@id": "@id",
           "@type": "@type"
         },
         "credentialProofValue": {
