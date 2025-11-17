@@ -52,6 +52,10 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#derivedProof",
       "@type": "@id"
     },
+    "ProvenanceCredential": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#ProvenanceCredential",
+      "@type": "@id"
+    },
     "TrustedIssuerCredential": {
       "@id": "https://simbachain.github.io/context/proof/anchor#TrustedIssuerCredential",
       "@type": "@id"
