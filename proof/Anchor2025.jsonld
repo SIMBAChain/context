@@ -104,8 +104,8 @@
         "id": "@id",
         "type": "@type",
         "credentialId": {
-          "id": "@id",
-          "type": "@type"
+          "@id": "https://simbachain.github.io/context/proof/anchor#credentialId",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
         },
         "credentialProofValue": {
           "@id": "https://simbachain.github.io/context/proof/anchor#credentialProofValue",
