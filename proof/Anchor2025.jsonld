@@ -104,7 +104,7 @@
         "id": "@id",
         "type": "@type",
         "credentialId": {
-          "@id": "@id",
+          "@id": "https://simbachain.github.io/context/proof/anchor#credentialId",
           "@type": "@type"
         },
         "credentialProofValue": {
