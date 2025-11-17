@@ -84,6 +84,22 @@
           "@container": "@set"
         }
       }
+    },
+    "credentialReference": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#credentialReference",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "credentialId": {
+          "@id": "https://simbachain.github.io/context/proof/anchor#credentialId",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
+        },
+        "credentialProofValue": {
+          "@id": "https://simbachain.github.io/context/proof/anchor#credentialProofValue",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      }
     }
   }
 }
