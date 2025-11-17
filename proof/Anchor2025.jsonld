@@ -103,7 +103,7 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "credential": {
+        "credentialId": {
           "@context": {
             "@protected": true,
             "id": "@id",
