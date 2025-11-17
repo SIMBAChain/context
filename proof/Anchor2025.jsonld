@@ -74,6 +74,10 @@
     },
     "trustedIssuer": {
       "@id": "https://simbachain.github.io/context/proof/anchor#trustedIssuer",
+      "@type": "@id"
+    },
+    "Issuer": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#Issuer",
       "@context": {
         "@protected": true,
         "id": "@id",
