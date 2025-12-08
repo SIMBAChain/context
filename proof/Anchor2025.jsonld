@@ -48,6 +48,10 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#dci",
       "@type": "http://www.w3.org/2001/XMLSchema#string"
     },
+    "lot": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#lot",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
     "derivedProof": {
       "@id": "https://simbachain.github.io/context/proof/anchor#derivedProof",
       "@type": "@id"
