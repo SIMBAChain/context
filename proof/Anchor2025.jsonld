@@ -76,6 +76,14 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#BlankNode",
       "@type": "@id"
     },
+    "NamedGraph": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#NamedGraph",
+      "@type": "@id"
+    },
+    "augmentation": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#augmentation",
+      "@type": "@id"
+    },
     "proofReference": {
       "@id": "https://simbachain.github.io/context/proof/anchor#proofReference",
       "@type": "@id"
