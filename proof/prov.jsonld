@@ -37,9 +37,21 @@
           "@id": "prov:wasGeneratedBy",
           "@type": "@id"
         },
+        "wasInvalidatedBy": {
+          "@id": "prov:wasInvalidatedBy",
+          "@type": "@id"
+        },
         "wasAttributedTo": {
           "@id": "prov:wasAttributedTo",
           "@type": "@id"
+        },
+        "generatedAtTime": {
+          "@id": "prov:generatedAtTime",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "invalidatedAtTime": {
+          "@id": "prov:invalidatedAtTime",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
         "label": {
           "@id": "prov:label",
