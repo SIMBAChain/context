@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@protected": true,
+    "@version": 1.1,
+    "policy": {
+      "@id": "https://simbachain.github.io/context/proof/policy#policy",
+      "@type": "@id",
+      "@container": "@graph"
+    },
+    "PredicatePolicy": {
+      "@id": "https://simbachain.github.io/context/proof/policy#PredicatePolicy",
+      "@context": {
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "policyPredicate": {
+          "@id": "https://simbachain.github.io/context/proof/policy#policyPredicate",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
+        },
+        "policyOperator": {
+          "@id": "https://simbachain.github.io/context/proof/policy#policyOperator",
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
+        },
+        "policyValue": {
+          "@id": "https://simbachain.github.io/context/proof/policy#policyValue"
+        }
+      }
+    }
+  }
+}
