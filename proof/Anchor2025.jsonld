@@ -84,6 +84,10 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#NamedGraph",
       "@type": "@id"
     },
+    "DIDProof": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#DIDProof",
+      "@type": "@id"
+    },
     "augmentation": {
       "@id": "https://simbachain.github.io/context/proof/anchor#augmentation",
       "@type": "@id"
