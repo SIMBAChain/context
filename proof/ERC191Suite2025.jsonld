@@ -14,10 +14,6 @@
           "@id": "https://w3id.org/security#controller",
           "@type": "@id"
         },
-        "revoked": {
-          "@id": "https://w3id.org/security#revoked",
-          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
-        },
         "account": {
           "@id": "https://simbachain.github.io/context/proof#account",
           "@type": "https://simbachain.github.io/context/proof#account"
