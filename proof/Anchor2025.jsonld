@@ -88,12 +88,24 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#DIDProof",
       "@type": "@id"
     },
-    "augmentation": {
-      "@id": "https://simbachain.github.io/context/proof/anchor#augmentation",
+    "BundleProof": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#BundleProof",
       "@type": "@id"
     },
-    "proofReference": {
-      "@id": "https://simbachain.github.io/context/proof/anchor#proofReference",
+    "CredentialProof": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#CredentialProof",
+      "@type": "@id"
+    },
+    "PolicyProof": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#PolicyProof",
+      "@type": "@id"
+    },
+    "resourcePolicy": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#resourcePolicy",
+      "@type": "@id"
+    },
+    "augmentation": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#augmentation",
       "@type": "@id"
     },
     "trustedIssuer": {
@@ -114,22 +126,6 @@
           "@id": "https://simbachain.github.io/context/proof/anchor#issuerClaims",
           "@type": "@id",
           "@container": "@set"
-        }
-      }
-    },
-    "CredentialProof": {
-      "@id": "https://simbachain.github.io/context/proof/anchor#CredentialProof",
-      "@context": {
-        "@protected": true,
-        "id": "@id",
-        "type": "@type",
-        "credential": {
-          "@id": "https://simbachain.github.io/context/proof/anchor#credential",
-          "@type": "@id"
-        },
-        "credentialProofValue": {
-          "@id": "https://simbachain.github.io/context/proof/anchor#credentialProofValue",
-          "@type": "http://www.w3.org/2001/XMLSchema#string"
         }
       }
     }
