@@ -96,8 +96,8 @@
       "@id": "https://simbachain.github.io/context/proof/anchor#CredentialProof",
       "@type": "@id"
     },
-    "PolicyProof": {
-      "@id": "https://simbachain.github.io/context/proof/anchor#PolicyProof",
+    "ODRLProof": {
+      "@id": "https://simbachain.github.io/context/proof/anchor#ODRLProof",
       "@type": "@id"
     },
     "resourcePolicy": {
